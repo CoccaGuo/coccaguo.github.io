@@ -89,9 +89,6 @@ footer:
     #   url: "https://instagram.com/"
 
 collections: 
-  docs:
-    output: true
-    permalink: /:collection/:path/
   recipes:
     output: true
     permalink: /:collection/:path/
