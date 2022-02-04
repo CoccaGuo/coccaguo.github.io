@@ -140,9 +140,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-recipes:
-  type: liquid
-  path: /recipes/
-locations:
-  type: liquid
-  path: /locations/

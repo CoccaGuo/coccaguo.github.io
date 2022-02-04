@@ -3,9 +3,8 @@ main:
     url: /posts/
   - title: "Recipes"
     url: /recipes/
-    - title: "Locations"
-      url: /locations/
-    url: /recipes/
+  - title: "Locations"
+    url: /locations/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
