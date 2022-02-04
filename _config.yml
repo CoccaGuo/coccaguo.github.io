@@ -118,6 +118,23 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _locations
+  - scope:
+      path: ""
+      type: locations
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: false
+
 
 category_archive:
   type: liquid
