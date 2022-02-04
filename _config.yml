@@ -88,13 +88,13 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
-collections: 
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  locations:
-    output: true
-    permalink: /:collection/:path/
+# collections: 
+#   recipes:
+#     output: true
+#     permalink: /:collection/:path/
+#   locations:
+#     output: true
+#     permalink: /:collection/:path/
 
 defaults:
   # _posts
