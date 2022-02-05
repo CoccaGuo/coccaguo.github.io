@@ -1,12 +1,11 @@
 ---
-title: 学五食堂-水煮肉片
+title: 北大食堂-学五食堂
 header: 
  image: /assets/images/recipes/stu5canteen/shuizhuroupian.jpg
- caption: 学五食堂的水煮肉片
+ caption: 学五食堂
 tags: 
  - 北大食堂
  - 学五食堂
- - 米饭套餐
 categories: 北大食堂
 last_modified_at: 2022-02-04 12:03:00 +0800
 ---
@@ -16,7 +15,7 @@ last_modified_at: 2022-02-04 12:03:00 +0800
 
 
 |   品名   |   价格   | 个人评价 |
-| :------: | :------: | :------: |
+| :------: | :------: | :------|
 | 水煮肉片 | 13.00CNY |   2/5    |
 
 **Warning** 信息仅供参考，仅代表博主<u>个人主观感受</u>。
